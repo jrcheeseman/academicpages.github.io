@@ -86,7 +86,7 @@ author:
   location         : "Giessen, Germany"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.de/citations?user=XMBnSKUAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=XMBnSKUAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/jrcheeseman/
+  linkedin         : "https://www.linkedin.com/in/jrcheeseman/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
